@@ -8,7 +8,7 @@ The Data Services are available under SWIM Data Interoperability standards.
 
 ID | Name | Category | Status | Version | Pattern
 -- | -- | -- | -- | -- | --
-[DS001](DS001/service.md) | Weather Observations | Weather | Experimental | MVP.01 | Pub/Sub
+[DS001](DS001/index.md) | Weather Observations | Weather | Experimental | MVP.01 | Pub/Sub
 DS002 | Weather Forecast | Weather | Experimental | MVP.01 | Pub/Sub
 DS003 | Significant Weather Event| Weather | Experimental | MVP.01 | Pub/Sub
 DS004 | Aeronautical Weather Event | Weather | Experimental | MVP.01 | Pub/Sub
