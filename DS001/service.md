@@ -2,16 +2,21 @@
 
 ## Service Overview
 
+### Service Name
+###	Service Version
+###	Provider Organization
+###	Provider Point of Contact
+###	Brief Description of the Service
+###	Lifecycle Information
+###	Geographical Extent of Information
+###	Quality of Service
+###	Access Restrictions
+###	Message Exchange Pattern
+###	Exchange Models
+###	Service Validation;
+###	Additional Service Information
+###	Service Functions
+###	Filtering Available
+###	Source of Information
+###	Support Availability
 
-
-
-### Data Services
-
-ID | Name | Category | Status | Version | Pattern
--- | -- | -- | -- | -- | --
-[DS001](DS001/index.md) | Weather Observations | Weather | Experimental | MVP.01 | Pub/Sub
-=
-
-### Support Contact
-
-Please contact us at <>.
