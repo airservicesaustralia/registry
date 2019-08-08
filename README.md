@@ -7,15 +7,16 @@ These are the Data Services offered by [Airservices Australia](http://airservice
 
 ID | Name | Category | Status | Version | Pattern
 -- | -- | -- | -- | -- | --
-[M001](service/M001.md) | Weather Observations | Weather | Experimental | MVP.01 | Pub/Sub
-M002 | Weather Forecast | Weather | Experimental | MVP.01 | Pub/Sub
-M003 | Significant Weather Event| Weather | Experimental | MVP.01 | Pub/Sub
-M004 | Aeronautical Weather Event | Weather | Experimental | MVP.01 | Pub/Sub
-M005 | Tropical Cyclone Advisory | Weather | Experimental | MVP.01 | Pub/Sub
-M006 | Volcanic Ash Advisory  | Weather | Experimental | MVP.01 | Pub/Sub
-M007 | Space Weather Advisory | Weather | Planned | MVP.01 | Pub/Sub
+[M001](service/M001.md) | Aerodrome Weather | Meteorological | Experimental | MVP.01 | Pub/Sub
+M002 | En-route Weather | Meteorological | Experimental | MVP.01 | Pub/Sub
+M003 | Weather Advisories| Meteorological | Experimental | MVP.01 | Pub/Sub
+ |  |  |  |  | 
+A100 | Departure Information | Aeronautical | Planned | MVP.01 | Pub/Sub
+ |   |  |  |  | 
+ |  |  |  | | 
 
 
 ### SupportContact
 
 Please contact us at <data@airservicesaustralia.aero>
+
