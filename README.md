@@ -5,15 +5,15 @@ These are the Data Services offered by [Airservices Australia](http://airservice
 
 ### Data Services
 
-ID | Name | Category | Status | Version | Pattern
+ID | Name | Category | Status | Version 
 -- | -- | -- | -- | -- | --
-[M001](service/M001.md) | Aerodrome Weather | Meteorological | Experimental | MVP.01 | Pub/Sub
-[M002](service/M002.md) | En-route Weather | Meteorological | Experimental | MVP.01 | Pub/Sub
-M003 | Weather Advisories| Meteorological | Experimental | MVP.01 | Pub/Sub
+[M001](service/M001.md) | Aerodrome Weather | Meteorological | Experimental | MVP.01
+[M002](service/M002.md) | En-route Weather | Meteorological | Experimental | MVP.01
+M003 | Weather Advisories| Meteorological | Experimental | MVP.01
  |  |  |  |  | 
-A100 | Departure Information | Aeronautical | Planned | MVP.01 | Pub/Sub
+[A001](service/A001.md) | Vertical Obstacles | Aeronautical | Planned | MVP.01 
  |   |  |  |  | 
- |  |  |  | | 
+F001| Flight Briefing | Flight | Planned | | 
 
 
 ### SupportContact
