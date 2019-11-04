@@ -11,7 +11,7 @@ ID | Name | Category | Status | Version
 [M002](service/M002.md) | En-route Weather | Meteorological | Experimental | MVP.01
 M003 | Weather Advisories| Meteorological | Experimental | MVP.01
  |  |  |  |  | 
-[A001](service/A001.md) | Vertical Obstacles | Aeronautical | Planned | MVP.01 
+[A001](service/A001.md) | Vertical Obstruction | Aeronautical | Planned | MVP.01 
  |   |  |  |  | 
 F001| Flight Briefing | Flight | Planned | | 
 
